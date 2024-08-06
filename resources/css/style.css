@@ -4,9 +4,14 @@ body {
     font-family: Verdana;
 }
 
-h1,
-h2,
-p {
+.header--main {
+    font-weight: normal;
     color: white;
-    font-family: Verdana;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
 }
